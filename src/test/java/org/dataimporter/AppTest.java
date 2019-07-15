@@ -1,4 +1,4 @@
-package org.dataImporter;
+package org.dataimporter;
 
 import static org.junit.Assert.assertTrue;
 
